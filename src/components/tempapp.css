@@ -3,7 +3,7 @@
     height: 829px;
     margin: auto;
     border-radius: 12px;
-    background-image:linear-gradient(30deg,#4230b9 0%,#5f3c8d 50%,#8d3c96 100%);
+    background-image:linear-gradient(30deg,#6a5ad2 0%,#874dd2 40%,#c040ce 100%);
 }
 .top-bar{
     display: flex;
